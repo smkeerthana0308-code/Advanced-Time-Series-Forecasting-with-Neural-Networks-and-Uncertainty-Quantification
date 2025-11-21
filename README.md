@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Neural-Networks-and-Uncertainty-Quantification
+A clean, modular starter project for multivariate time series forecasting using GRU models with Monte Carlo Dropout for uncertainty estimation. Includes synthetic data generation, SARIMAX baseline comparison, evaluation metrics, and a ready-to-use structure for analysis and reporting. Perfect for learning, experimentation, or project submissions.
