@@ -1,9 +1,0 @@
-numpy
-pandas
-scipy
-matplotlib
-torch
-tqdm
-scikit-learn
-statsmodels
-h5py
